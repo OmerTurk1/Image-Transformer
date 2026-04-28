@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
     print("Computation has started.")
 
-    # Dönüşümleri yap
+    # Dönüşümler
     source_list, source_dims = transform_img(source)
     target_list, target_dims = transform_img(target)
 
